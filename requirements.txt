@@ -2,3 +2,6 @@ flask
 flask-restful
 Flask-SQLAlchemy
 flask_migrate
+Flask-JWT-Extended
+Flask-Bcrypt
+email-validator
